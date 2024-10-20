@@ -1,0 +1,17 @@
+{
+  "name": "15_send_email_with_nodemailer",
+  "version": "1.0.0",
+  "description": "thapa technical tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thapa",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "node": "^20.3.1",
+    "nodemailer": "^6.9.3"
+  }
+}

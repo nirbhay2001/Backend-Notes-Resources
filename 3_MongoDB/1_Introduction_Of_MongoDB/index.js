@@ -1,0 +1,9 @@
+/*
+
+ SQL                                     NoSQL
+
+ Table                                   Collection
+ Row                                     Document
+ Column                                  Fields
+
+*/
